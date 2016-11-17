@@ -1,0 +1,18 @@
+{
+  "name": "sample-jest-faustao-errou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "just.test.js",
+  "dependencies": {
+    "jest": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Bruno Orlandi <brorlandi@gmail.com>",
+  "license": "ISC",
+  "jest":{
+      "testResultsProcessor":"<rootDir>/node_modules/jest-faustao-errou/index.js"
+  }
+}

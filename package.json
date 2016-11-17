@@ -1,0 +1,22 @@
+{
+  "name": "jest-faustao-errou",
+  "version": "1.0.0",
+  "description": "Jest testResultsProcessor. If your tests fail, Errrrrouuuu!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BrOrlandi/jest-faustao-errou.git"
+  },
+  "author": "Bruno Orlandi <brorlandi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrOrlandi/jest-faustao-errou/issues"
+  },
+  "homepage": "https://github.com/BrOrlandi/jest-faustao-errou#readme",
+  "dependencies": {
+    "faustao-errou": "^1.0.1"
+  }
+}
